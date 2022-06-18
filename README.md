@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Kostas,
 
 
-- 🔭 I’m currently working on [Threenitas](https://threenitas.com) as a Mobile Tech Lead
+- 🔭 I’m currently working  @[Threenitas](https://threenitas.com) as a Mobile Tech Lead
 - 🌱 I’m currently learning Product Development
 - 💬 Ask me about Native Mobile Apps (Android & iOS)
 - ⚡ Fun fact: I paint at times! 
