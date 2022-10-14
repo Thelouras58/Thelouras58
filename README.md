@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working  [@Threenitas](https://threenitas.com) as a Mobile Tech Lead
-- 📱 I’m crafting my own Mobile Games. You can check my first Game [@Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check for new Games [@Instagram](https://www.instagram.com/mobile_brain_games/)
+- 📱 I’m crafting my own Mobile Games. You can check my first Game [@Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check more [@mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/)
 - 🌱 I’m currently learning about Product Development
 - 📖 Sometimes blogging [@thelouras.gr](https://thelouras.gr/)
 - 💬 Ask me about Native Mobile Apps 
