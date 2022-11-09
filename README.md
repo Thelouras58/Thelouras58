@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Kostas,
 
 
-- 🔭 I’m currently working on [Threenitas](https://threenitas.com) as a Mobile Tech Lead
+- 🔭 I’m currently working at [Threenitas](https://threenitas.com) as a Mobile Tech Lead
 - 📱 I’m building my own Mobile Games. You can check my first Game in [Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check more: [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/)
 - 🌱 I’m currently learning about Product Development
 - 📖 Sometimes blogging, check [thelouras.gr](https://thelouras.gr/)
