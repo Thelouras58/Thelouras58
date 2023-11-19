@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Product Development
 - 📖 Sometimes blogging, check [thelouras.gr](https://thelouras.gr/)
 - 💬 Ask me about Native Mobile Apps 
-- ⚡ Fun fact: I paint at times! 
+- ⚡ Fun fact: I make art at times! 
 
 <br>
 <p align="center">
