@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working at [Threenitas](https://threenitas.com) as a Mobile Team Lead
-- 📱 I’m indie building my own Mobile Games. You can check my first Game in [Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check more: [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/)
+- 📱 I’m indie building my own Mobile Games. You can check the first app of the collection(Over 30k Downloads) in [Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check all the apps: [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/)
 - 🌱 I’m currently learning about Product Development
 - 📖 Sometimes blogging, check [thelouras.gr](https://thelouras.gr/)
-- 💬 Ask me about Native Mobile Apps 
+- 💬 Ask me about Mobile Apps 
 - ⚡ Fun fact: I make art at times! 
 
 <br>
