@@ -13,15 +13,6 @@
   <a href="https://github.com/Thelouras58?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Thelouras58?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-CAB8FF?style=for-the-badge&logo=kotlin&logoColor=CAB8FF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-CAB8FF?style=for-the-badge&logo=Java&logoColor=CAB8FF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Android-CAB8FF?style=for-the-badge&logo=Android&logoColor=CAB8FF&labelColor=282828">
-   <img src="https://img.shields.io/badge/-iOS-CAB8FF?style=for-the-badge&logo=iOS&logoColor=CAB8FF&labelColor=282828">
-   <img src="https://img.shields.io/badge/-Swift-CAB8FF?style=for-the-badge&logo=Swift&logoColor=CAB8FF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Mobile_Apps-CAB8FF?style=for-the-badge&logo=Mobile_Apps&logoColor=CAB8FF&labelColor=282828">
-</div>
-</p>
 
 <br/>
 <p align="left">
