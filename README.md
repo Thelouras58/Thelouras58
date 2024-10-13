@@ -13,8 +13,3 @@
   <a href="https://github.com/Thelouras58?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Thelouras58?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <p>
-![Profile Views](https://komarev.com/ghpvc/?username=Thelouras58)
-
-<a href="https://github.com/Thelouras58/GitHub-Language-Stats">
-<img src="https://github.com/Thelouras58/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-
