@@ -1,9 +1,18 @@
-### Hi there 👋 My name is Kostas,
+# Hi, I'm Kostas! 🚀
 
+### Product Owner | Business Analyst | Indie Game Developer
 
-- 🔭 I’m currently working at [Threnitas](https://threenitas.com) as a Product Owner/Business Analyst
-- 📱 I’m indie building my own Mobile Games. You can check the first app of the collection(Over 40k Downloads) in [Playstore](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US) & check all the apps: [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/)
-- 🌱 I’m currently learning about Product Development
-- 📖 Sometimes blogging, check [thelouras.gr](https://thelouras.gr/)
-- 💬 Ask me about Mobile Apps 
-- ⚡ Fun fact: I make art at times! 
+I bridge the gap between complex business requirements and engaging user experiences. By day, I'm shaping products at **[Threenitas](https://threenitas.com)**; by night, I'm building a universe of mobile brain games.
+
+---
+
+### 🛠️ What I'm Up To
+
+* 🔭 **Current Role:** Product Owner & Business Analyst at Threenitas.
+* 📱  Indie Building **[Mobile Brain Games](https://mobilebraingames.com)**.
+* 🏆 **Success Story:** My flagship game, *Pattern*, has surpassed **50,000+ downloads** on the [Play Store](https://play.google.com/store/apps/details?id=thelouras.pattern.game&hl=en_US&gl=US).
+* 📱 **Full Collection of Mobile Brain Games:**   [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/) 
+* 🌱 **Learning:** Deep-diving into advanced Product Development frameworks and scaling mobile ecosystems.
+* 🎨 **Fun Fact:** I make art at times! 
+
+---
