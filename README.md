@@ -1,6 +1,5 @@
-# Hi, I'm Kostas! 🚀
+# Hi, I'm Kostas! 
 
-### Product Owner | Business Analyst | Indie Game Developer
 
 I bridge the gap between complex business requirements and engaging user experiences. By day, I'm shaping products at **[Threenitas](https://threenitas.com)**; by night, I'm building a universe of mobile brain games.
 
