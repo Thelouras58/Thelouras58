@@ -10,8 +10,6 @@ I bridge the gap between complex business requirements and engaging user experie
 * 🔭 **Current Role:** Product Owner & Business Analyst at Threenitas.
 * 📱  Indie Building **[Mobile Brain Games](https://mobilebraingames.com)**. 
     * Over 70k downloads for all the apps in the collection 
-* 📱 **Full Collection of Mobile Brain Games:**   [mobilebraingames.com](https://thelouras.gr/Mobile-Brain-Games-Site/) 
 * 🌱 **Learning:** Deep-diving into advanced Product Development frameworks and scaling mobile ecosystems.
 * 🎨 **Fun Fact:** I make art at times! 
-
 ---
